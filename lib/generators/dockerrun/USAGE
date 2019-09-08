@@ -1,0 +1,8 @@
+Description:
+    Generate the Dockerrun.aws.json for elasticbeanstalk deployment
+
+Example:
+    rails generate dockerrun_generator
+
+    This will create:
+        Dockerrun.aws.json based on template Dockerrun.aws.json.erb that you specified.
