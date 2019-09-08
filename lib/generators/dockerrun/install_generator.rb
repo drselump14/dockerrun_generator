@@ -1,4 +1,4 @@
-require "rails/generator"
+require "rails/generators/base"
 
 module Dockerrun
   module Generators
